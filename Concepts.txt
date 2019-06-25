@@ -1,0 +1,18 @@
+Reactive forms
+Observers
+
+
+
+-----------
+ng-8
+IVY: rendering engine opt-in feature
+Bazel: opt-in preview
+	Faster build time
+	Incremental Build
+	Builders API: Can be used for custom build
+Differential loading
+Dynamic imports for lazy routes: Lazy-loaded routes now use the standard dynamic import syntax instead of a custom string. This means that TypeScript and linters will be better able to 
+Web Worker:
+	A backgroup worker that takes more time
+
+Ivy: A look at the New Render Engine for Angular
