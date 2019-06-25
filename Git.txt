@@ -13,3 +13,7 @@ git remote add myrepo https://github.com/KiranMangu/Commands.git
 git push -u myrepo master
 
 ------------------------------------
+git add --all
+git status
+git commit -m "command files"
+git push
