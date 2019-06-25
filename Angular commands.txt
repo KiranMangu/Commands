@@ -1,0 +1,4 @@
+npm install
+
+FrontEnd: ng serve
+BackEnd: npm start

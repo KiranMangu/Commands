@@ -1,0 +1,15 @@
+GIT commands:
+git config --list
+git config --global user.email "kiranmohanm@gmail.com"
+git config --global user.name "KiranMangu"
+git clone https://github.com/KiranMangu/ProjectManagement_Frontend.git
+git clone https://github.com/KiranMangu/ProjectManagement_Backend.git
+
+------------------------------------
+git init
+git add ReadMe.txt
+git commit -m "Check-in ReadMe txt file"
+git remote add myrepo https://github.com/KiranMangu/Commands.git
+git push -u myrepo master
+
+------------------------------------
