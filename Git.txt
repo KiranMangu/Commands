@@ -12,6 +12,17 @@ git commit -m "Check-in ReadMe txt file"
 git remote add myrepo https://github.com/KiranMangu/Commands.git
 git push -u myrepo master
 
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/KiranMangu/CoreRepo.git
+git push -u origin master
+                
+…or push an existing repository from the command line
+git remote add origin https://github.com/KiranMangu/CoreRepo.git
+git push -u origin master
+
 ------------------------------------
 git add --all
 git status
